@@ -1,4 +1,4 @@
-# create
+vue
 
 ## Project setup
 ```
